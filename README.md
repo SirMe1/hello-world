@@ -1,3 +1,5 @@
 # hello-world
 Learning github
-I am a young programmer who really wants to understand Github and be a pro at it.
+I am a young programmer. 
+I find Github very interesting.
+I want to learn more of it to professional level.
